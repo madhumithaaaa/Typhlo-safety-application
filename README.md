@@ -2,6 +2,7 @@
 PROBLEM STATEMENT
 
 Technology now a days are skyrocketing the capable persons who can handle it wisely. We  forget the people who are naturally disabled and are struggling to make an impact in their social life. Without vision it can be challenging for the visually impaired to move through a daily routine.When we use the word blind we could imagine a pity person staying in the roadside to cross the road with someone’s assistance. These people are now always accompanied and we can see them struggling on day today events. Some scenarios are emergency and it is really hard to get help. So we are coming forward with an innovative idea to be used and utilised by visually challenged persons.This idea incorporates important functions that helps them in emergency and also helps to take preventive measures for the ailed. We hope to bring a product with full fledged application and also that could help us gain knowledge in the same domain so that it would bring us a bright carrier.
+
 ABSTRACT
 
 The project aims at providing a  very easy  and a feasible hand-held helping application for the visually challenged people in their day-to-day life. We encounter many people who are so much talented In spite of their illness. These people are mostly dependent for some reason on their friends or on their family. Not everyone accompanies them in all their situations. We hereby would like to help these people during their challenging situation. We hereby would like to create a three different solution modules for their three different situations. 
@@ -13,11 +14,16 @@ INTRODUCTION
  The native android application is created in Java language.  The key point of  native apps is that they provide more security compared to hybrid apps. The native android applications are more efficient and compatible with all the android phones. This app is created to help the physically challenged people and elderly people. The expanding accessibility options included in the Google Android operating system, plus a wide array of affordable mobile devices that run the Android OS, have made the platform an increasingly popular choice for those looking for a Smartphone or tablet. Since Android is an open operating system, deployed by a number of manufacturers on their phones and tablets, buyers can choose from an array of hardware, without having to wonder whether the gadget they like best is accessible. In addition to the Talkback screen reader, Android's recent versions allow users with low vision to build their own accessible experiences using a combination of settings for changing the way the screen looks. A few vendors, including Samsung, have even added accessibility tools of their own to the stock Android environment
  
                                                       MODULES
- MESSAGE READER
-•	MESSAGE LISTENER
-•	RECEIVE MESSAGE
-•	ALERT SYSTEM
-•	TEXT TO SPEECH
+  MESSAGE READER
+  
+	MESSAGE LISTENER
+  
+	RECEIVE MESSAGE
+  
+	ALERT SYSTEM
+  
+	TEXT TO SPEECH
+  
 MESSAGE LISTENER
 
 The message listener has started while the app starts. The listener is started to receive the new message. The listener runs in background to receive the new SMS. Message Reader detects the new message using a broadcast receiver (until this moment the app has not been wasting battery)
