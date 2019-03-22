@@ -29,6 +29,7 @@ This alert system, alerts the user while the new SMS received. This alert system
 TEXT TO SPEECH
 
 Starts a background service with the TTS (Text To Speech) system, when all the work is done, Message Reader will start to speak the message. In this module the received text words that should be heard clearly with the correct pronunciation. For this voice generation the TTS library file called and the parameter is passed to that library. The parameter should be in the text format.
+
  EMERGENCY REQUESTER
  
 The emergency requester module, works with the physical keys present in the mobile phone. This module generates an emergency help request with the location information. While the blind people needs help, the person have to press the power button for few times in their mobile phone, the user location is gathered using the GPS module, then the emergency help request sent to the contact as SMS with the location information of the blind person. 
@@ -40,20 +41,26 @@ In this module the user can add medications for their illness based on the presc
 
 TRIGGERING ALARM
 
-The alarm can be set for multiple medicines and timings including date, time and medicine description. While the current time reaches the scheduled time to take medicine, this system plays an alarm and intimate the patient to take medicine
+The alarm can be set for multiple medicines and timings including date, time and medicine description. While the current time reaches the scheduled time to take medicine, this system plays an alarm and intimate the patient to take medicine.
+
 PROJECT STATUS
 
 EMERGENCY HELPER(WORKING SUCCESSFULLY)
+
 MEDICINE REMAINDER(WORKING SUCCESSFULLY)
+
 TEXT TO SPEECH
 
 PENDING WORK
 
 TEXT TO SPEECH
+
 ##MODULES
 
 1.EMERGENCY HELPER(MADHUMITHA)
+
 2.MEDICINE REMAINDER(MADHUMITHA)
+
 3.TEXT TO SPEECH (SATHISH)
 
 
