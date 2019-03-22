@@ -51,23 +51,23 @@ The alarm can be set for multiple medicines and timings including date, time and
 
 PROJECT STATUS
 
-EMERGENCY HELPER(WORKING SUCCESSFULLY)
+1.Emergency helper (working sucessfully)
 
-MEDICINE REMAINDER(WORKING SUCCESSFULLY)
+2.Medicine remainder (working successfully)
 
-TEXT TO SPEECH
+3.text to speech
 
 PENDING WORK
 
-TEXT TO SPEECH
+Text to speech
 
 ##MODULES
 
-1.EMERGENCY HELPER(MADHUMITHA)
+1.emergency helper (madhumitha)
 
-2.MEDICINE REMAINDER(MADHUMITHA)
+2.Medicine remainder (madhumitha)
 
-3.TEXT TO SPEECH (SATHISH)
+3.Text to speech (sathish)
 
 
 
