@@ -275,6 +275,18 @@ public class DbHelper extends SQLiteOpenHelper {
 	 }	 
 
 }
+CONCLUSION AND FUTURE ENHANCEMENT
+
+
+The “Application for blind people” is a complex system involving many sub process. The system overcomes the limitation of existing manual system. This project has been designed, developed and implemented thus providing a full- fledged approach for proficient and best of results. The project satisfies each efficient user for saving his time and also helps him in clearing the providing help to the physically challenged peoples.
+This project deals with the elements of the native technologies.
+It enables the physically challenged and the elderly people to overcome their difficulties and live without much support from others.
+It enables the well wishers of the user’s to know their location to ensure their security and safety.
+The project monitoring services can be updated with necessary enhancements in the database. The system overheads the problem in the existing ones by capable of processing voluminous data in a user-friendly manner.
+The persons, who are involved in working the task manually, have seen this project running and expressing satisfaction about the working procedures and the “conversion handling” incorporated in the project.
+Future enhancements can be made such as issuing user id to the user, where by the user can use that as a reference which specifies all his previous performance, the project work us stopped at this satisfactory level, due to time constraints.
+ 
+
 
 
 
