@@ -6,8 +6,8 @@ Technology now a days are skyrocketing the capable persons who can handle it wis
 ABSTRACT
 
 The project aims at providing a  very easy  and a feasible hand-held helping application for the visually challenged people in their day-to-day life. We encounter many people who are so much talented In spite of their illness. These people are mostly dependent for some reason on their friends or on their family. Not everyone accompanies them in all their situations. We hereby would like to help these people during their challenging situation. We hereby would like to create a three different solution modules for their three different situations. 
-	The first module provides an emergency alert to the emergency contact number saved in a particular mobile phone used by the person. 
-	The second module is a pill remainder , which would remind the person for taking a medicine at the particular time.  
+The first module provides an emergency alert to the emergency contact number saved in a particular mobile phone used by the person. 	The second module is a pill remainder , which would remind the person for taking a medicine at the particular time.
+The third module is text to speech
  
 INTRODUCTION
 
@@ -68,6 +68,7 @@ Text to speech
 2.Medicine remainder (madhumitha)
 
 3.Text to speech (sathish)
+
 
 
 
