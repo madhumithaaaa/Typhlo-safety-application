@@ -57,10 +57,6 @@ PROJECT STATUS
 
 3.text to speech
 
-PENDING WORK
-
-Text to speech
-
 ##MODULES
 
 1.emergency helper (madhumitha)
